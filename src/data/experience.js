@@ -1,8 +1,8 @@
 const experience = [
     {
         id: 1,
-        company: "TechNova Solutions",
-        role: "Data & MLOps Engineer Trainee",
+        company: "Softop Solutions Pvt Ltd",
+        role: "Machine Learning Engineer",
         duration: "2025 - Present",
         description: [
             "Design and execute automated ETL pipelines using Apache Airflow to process and clean large-scale school financial transaction data.",

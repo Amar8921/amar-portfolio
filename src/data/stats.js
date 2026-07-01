@@ -1,7 +1,7 @@
 const stats = [
 
     {
-        value: "10+",
+        value: "1",
         label: "Projects"
     },
 

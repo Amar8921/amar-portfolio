@@ -142,13 +142,6 @@ function Contact() {
                                 </div>
                             </div>
                         </div>
-
-                        {/* Interactive prompt */}
-                        <div className="bg-gradient-to-r from-cyan-950/20 to-indigo-950/20 border border-slate-800/60 rounded-3xl p-8 text-center">
-                            <p className="text-slate-350 text-sm leading-relaxed">
-                                I'm actively looking for junior or trainee opportunities in <strong>Python Backend, Data Engineering, and MLOps</strong>!
-                            </p>
-                        </div>
                     </motion.div>
 
                     {/* Right Side: Message Form - Span 7 */}

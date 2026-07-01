@@ -1,5 +1,3 @@
-import React from "react";
-
 // Inline SVGs for all technical stack items
 export function DevIcon({ type, className = "w-6 h-6", ...props }) {
     switch (type) {

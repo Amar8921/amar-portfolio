@@ -6,7 +6,7 @@ const profile = {
     description:
         "I build scalable Machine Learning, Data Engineering and MLOps solutions using Python, FastAPI, Airflow, MLflow, Docker and modern cloud-native technologies.",
 
-    email: "your@email.com",
+    email: "amarkuttu1234@gmail.com",
 
     location: "Kerala, India",
 

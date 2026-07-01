@@ -1,3 +1,5 @@
+import feeForecastImage from "../assets/fee_forecast_platform.png";
+
 const projects = [
     {
         id: 1,
@@ -18,27 +20,8 @@ const projects = [
         ],
         github: "https://github.com/Amar8921/FeeCollectionMonthly",
         demo: "",
-        image: "/projects/fee-platform.png"
+        image: feeForecastImage
     },
-    {
-        id: 2,
-        featured: true,
-        title: "Real-Time Streaming Pipeline for IoT Analytics",
-        category: "Data Engineering",
-        description:
-            "A scalable streaming ingestion pipeline that processes high-throughput IoT sensor data. Designed to ingest streams, perform real-time aggregations and windowing, and load processed data into PostgreSQL/TimescaleDB. Uses Docker Compose for easy orchestration and Git Actions for CI/CD.",
-        technologies: [
-            "Python",
-            "SQL",
-            "PostgreSQL",
-            "Docker",
-            "Git",
-            "GitHub Actions"
-        ],
-        github: "https://github.com/Amar8921/iot-stream-pipeline",
-        demo: "",
-        image: "/projects/data-pipeline.png"
-    }
 ];
 
 export default projects;
