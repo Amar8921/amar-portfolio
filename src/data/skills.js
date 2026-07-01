@@ -11,6 +11,7 @@ const skills = [
     category: "Pipelines & Backend",
     items: [
       { name: "Apache Airflow", icon: "airflow", color: "from-teal-500 to-cyan-500" },
+      { name: "Apache Kafka", icon: "kafka", color: "from-slate-600 to-slate-800" },
       { name: "FastAPI", icon: "fastapi", color: "from-emerald-400 to-teal-600" }
     ]
   },

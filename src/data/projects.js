@@ -7,18 +7,19 @@ const projects = [
         title: "Fee Collection Forecasting Platform",
         category: "MLOps",
         description:
-            "An end-to-end MLOps platform for forecasting monthly school fee collections. Integrates automated Prophet model training, data preparation via Apache Airflow, model tracking via MLflow, FastAPI prediction serving, and systems monitoring with Prometheus and Grafana, all containerized via Docker.",
+            "An end-to-end event-driven MLOps platform for forecasting monthly school fee collections. Integrates real-time payment ingestion via Apache Kafka, automated incremental aggregation & data prep via Apache Airflow, model tracking & registry via MLflow, FastAPI prediction serving, and systems monitoring with Prometheus & Grafana, all containerized in a single Docker stack.",
         technologies: [
             "Python",
             "Prophet",
             "FastAPI",
             "Apache Airflow",
             "MLflow",
+            "Apache Kafka",
             "Docker",
             "Prometheus",
             "Grafana"
         ],
-        github: "https://github.com/Amar8921/FeeCollectionMonthly",
+        github: "https://github.com/Amar8921/FeeforecastMonthlyMlops",
         demo: "",
         image: feeForecastImage
     },
